@@ -1,3 +1,3 @@
-Turn                |
+GG, WP!                |
 :-------------------------:
-![](https://github.com/qwepattinson/tic-tac-toe/blob/main/assets/images/qwe.jpg?raw=true)
+![](https://github.com/taupattinson/TicTacToe-Flutter/blob/main/assets/images/1.gif?raw=true)
